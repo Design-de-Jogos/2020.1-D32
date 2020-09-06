@@ -50,4 +50,4 @@
 | Versão | Data | Modificação | Autor | Revisor |
 | :---: | :---: | :---: | :---: | :---: |
 | 1.0 | 30/08 | Criação do Planejamento do Projeto | [João Gabriel Antunes](https://github.com/flyerjohn) | [Bruno Oliveira Dantas](https://github.com/BrunoOliveiraDantas)
-| 1.1 | 05/09 | Criação do Planejamento do Projeto | [João Gabriel Antunes](https://github.com/flyerjohn) | [Ian Rocha](https://github.com/IanPSRocha)
+| 1.1 | 05/09 | Atualização do planejamento | [João Gabriel Antunes](https://github.com/flyerjohn) | [Ian Rocha](https://github.com/IanPSRocha)
