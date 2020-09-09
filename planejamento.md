@@ -47,7 +47,7 @@
 ![Ciclo de Vida](/img/ciclodevida.jpg)
 
 # **Vídeo introdutório do planejamento**
-![Video](https://youtu.be/VJKBLy3pV18)
+<https://youtu.be/VJKBLy3pV18>
 
 # **Versionamento**
 | Versão | Data | Modificação | Autor | Revisor |
