@@ -46,8 +46,12 @@
 # **Ciclo de Vida**
 ![Ciclo de Vida](/img/ciclodevida.jpg)
 
+# **Vídeo introdutório do planejamento**
+![Video](https://youtu.be/VJKBLy3pV18)
+
 # **Versionamento**
 | Versão | Data | Modificação | Autor | Revisor |
 | :---: | :---: | :---: | :---: | :---: |
 | 1.0 | 30/08 | Criação do Planejamento do Projeto | [João Gabriel Antunes](https://github.com/flyerjohn) | [Bruno Oliveira Dantas](https://github.com/BrunoOliveiraDantas)
 | 1.1 | 05/09 | Atualização do planejamento | [João Gabriel Antunes](https://github.com/flyerjohn) | [Ian Rocha](https://github.com/IanPSRocha)
+| 1.2 | 09/009 | Adição do link ao vídeo introdutório | [João Gabriel Antunes](https://github.com/flyerjohn) | [Thallys Braz](https://github.com/thallysbraz)
