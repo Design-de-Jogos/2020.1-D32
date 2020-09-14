@@ -10,3 +10,6 @@ theme:
   palette:
     primary: "deep purple"
     secondary: "indigo"
+
+repo_name: "32b Documents"
+repo_url: "https://github.com/Design-de-Jogos/2020.1-MobileAccessibility"
