@@ -88,6 +88,9 @@ O jogador estará em um universo imersivo de fantasia, deixando o conhecimento a
 
 Navegador em desktop
 
+## **Link para o _briefing_ do documento**
+https://youtu.be/YQc2XZZL1PQ
+
 # **Versionamento**
 | Versão | Data | Modificação | Autor | Revisor |
 | :---: | :---: | :---: | :---: | :---: |

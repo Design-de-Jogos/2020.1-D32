@@ -44,7 +44,7 @@
 ### Thallys Braz - [@thallysbraz](https://github.com/thallysbraz)
 
 # **Ciclo de Vida**
-![Ciclo de Vida](/img/ciclodevida.jpg)
+![Ciclo de Vida](./img/ciclodevida.jpg)
 
 # **Vídeo introdutório do planejamento**
 <https://youtu.be/VJKBLy3pV18>
