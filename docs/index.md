@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Início
+Este canal foi criado para manter toda a documentação do projeto 42b, que está sendo feito pelo grupo 2 da matéria Seminários de Engenharia de Software.
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+## Visão Geral
+A ideia principal é confeccionar toda a documentação de um jogo sério para ensino de métricas de acessibilidade em interfaces móveis para desenvolvedores e aspirantes a areas relacionadas.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Equipe
+ Foto | Nome | Email | GitHub |
+ ---- | ---- | ----- | ------ |
+![]() | Bruno Oliveira | - | [@BrunoOliveiraDantas](https://github.com/BrunoOliveiraDantas) |
+![]() | Ian Pereira Rocha | - | [@IanPSRocha](https://github.com/IanPSRocha) |
+![]() | João Gabriel Antunes | jg.antunes.medeiros@gmail.com | [@flyerjohn](https://github.com/flyerjohn) |
+![]() | Marco Antônio Costa | markinlimac@gmail.com | [@markinlimac](https://github.com/markinlimac) |
+![]() | Thallys Braz | 	thallysbraz3@gmail.com | [@thallysbraz](https://github.com/thallysbraz) |

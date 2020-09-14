@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Projeto 32b
+nav: 
+  - Home: index.md
+  - Planejamento: planejamento.md
+
+theme: 
+  name: material
