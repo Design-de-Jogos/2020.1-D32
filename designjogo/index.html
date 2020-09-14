@@ -1,0 +1,366 @@
+
+
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      <link rel="shortcut icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-5.5.12">
+    
+    
+      
+        <title>Design do Jogo - Projeto 32b</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.4dd2dd8d.min.css">
+      
+        <link rel="stylesheet" href="../assets/stylesheets/palette.6a5ad368.min.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#7e56c2">
+      
+    
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+      
+    
+    
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="deep-purple" data-md-color-accent="">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#nome-do-jogo" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid" aria-label="Header">
+    <a href=".." title="Projeto 32b" class="md-header-nav__button md-logo" aria-label="Projeto 32b">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header-nav__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header-nav__title" data-md-component="header-title">
+      
+        <div class="md-header-nav__ellipsis">
+          <span class="md-header-nav__topic md-ellipsis">
+            Projeto 32b
+          </span>
+          <span class="md-header-nav__topic md-ellipsis">
+            
+              Design do Jogo
+            
+          </span>
+        </div>
+      
+    </div>
+    
+      <label class="md-header-nav__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active">
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+        
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Projeto 32b" class="md-nav__button md-logo" aria-label="Projeto 32b">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    Projeto 32b
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href=".." title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../planejamento/" title="Planejamento" class="md-nav__link">
+      Planejamento
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+    <a href="./" title="Design do Jogo" class="md-nav__link md-nav__link--active">
+      Design do Jogo
+    </a>
+    
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                  
+                
+                
+                <h1 id="nome-do-jogo"><strong>Nome do jogo</strong></h1>
+<p>D32</p>
+<h1 id="historia-do-jogo"><strong>História do jogo</strong></h1>
+<p>Era ano de 2059, um garoto chamado Mióri estava em sua casa em um dia chuvoso, lendo um livro antigo que pertencia ao seu avô, que ele havia acabado de encontrar dentro de um baú no seu porão coberto com poeira, e, após soprar a capa do livro, ele conseguiu visualizar o título <em>&quot;d32&quot;.</em> Lembranças do seu avô diziam que d32 era um dado de 32 fases encontrado em histórias de aventura.</p>
+<p>Lendo o livro em sua cama, debaixo das cobertas, ele passou a noite lendo e, em um determinado momento, acabou adormecendo.</p>
+<p>Ao acordar, viu que muita luz do sol batia em seu rosto, algo que não era comum, e então ele percebeu que estava em um campo florido, e sem entender o que estava acontecendo, acabou voltando a dormir.</p>
+<p>Ao despertar novamente, teve a certeza de que aquilo não era um sonho, mas sim, era tudo real, o sol forte, o vento soprando e o campo florido, todos eram bem reais. Ao fundo do ambiente ele enxergou uma silhueta se aproximando que, ao chegar mais perto se tornou mais clara, era a imagem de um velho encapuzado e de roupas longas, segurando um cajado.</p>
+<p>Logo, antes mesmo de ele tentar dizer alguma coisa, o velho diz:</p>
+<p>-Olá meu jovem, você deve estar muito confuso não é mesmo. Deixe me apresentar e te explicar o contexto em que você está inserido. Meu nome é Half, mas sou conhecido como velho mestre mago. Você foi arrastado a esse mundo como um herói que é invocado pelo mundo d32 a cada 500 anos, para quebrar o selo do Templo Antigo, que espalhará o caos a todos, caso não o faça. Este também é o único caminho para você voltar para casa. -- diz o mestre mago apontando seu cajado para cima. -- Dessa forma, você terá que coletar os 4 pergaminhos perdidos para conseguir adentrar O Templo de Espaço e Tempo e assim enfrentar os desafios impostos.</p>
+<p>Eu passei grande parte da minha vida tentando descobrir a localização dos pergaminhos na esperança de que, um dia, um bravo herói surgisse novamente para salvar esse mundo. Entregarei o mapa a você e lhe desejo sorte nessa grande empreitada, vai precisar. -- Afirma o velho com uma expressão de preocupação.</p>
+<p>Após essa breve introdução, o Mestre Mago entregou o mapa a Mióri e foi embora sem esclarecer mais do que deveria ser desenvolvido pelo nosso herói.</p>
+<p>A partir desse ponto, de forma destemida, Mióri encara seu destino e vai em busca da sua jornada atrás dos pergaminhos.</p>
+<p>A primeira localização se encontra em uma montanha gélida no pico mais alto ao norte de Cinnabar, cidade essencial para o comércio local. Adquirindo o primeiro Pergaminho é necessário internalizar os conhecimentos apresentados, que são:</p>
+<p>&quot;Conhecimento <em>1 sobre Acessibilidade&quot;.</em></p>
+<p>A segunda localização, destino daqueles que passam com sucesso no primeiro teste, se encontra em um vale cortado por um rio de águas fundas e raivosas, ainda em Cinnabar. Após achar o segundo pergaminho, Mióri deverá enfrentar seu segundo teste, com os conhecimentos do pergaminho:</p>
+<p>&quot;Conhecimento <em>2 sobre Acessibilidade&quot;.</em></p>
+<p>A terceira localização fica em uma cadeia de túneis subterrâneos naturais, nas terras baixas de Klockhold, vila fundadora do estudo antigo. E o mesmo padrão se repete, Mióri deverá provar que compreendeu o que está escrito no pergaminho encontrado por entre os buracos escuros e úmidos desse labirinto subterrâneo.</p>
+<p>&quot;Conhecimento <em>3 sobre Acessibilidade&quot;.</em></p>
+<p>A quarta e penúltima localidade fica na encosta que fica ao sul da ilha da Terra Conhecida. O Detentor dos três pergaminhos, somente, consegue chegar a este ponto e precisará provar que é digno desse nome.</p>
+<p>&quot;Conhecimento <em>4 sobre Acessibilidade&quot;.</em></p>
+<p>Após conseguir todos os pergaminhos e adquirido todo o conhecimento necessário para enfim poder adentrar o Templo de Espaço e Tempo, o Velho Mestre Mago aparece novamente e parabeniza Mióri pela bravura e coragem. Então dá a ele a localização do tempo.</p>
+<p>São ruínas gigantes construídas a muitos milênios atrás, que estão situadas após o rios de Miorh e ao Norte do Monte Sagrado.</p>
+<p>Mióri fica face a face ao Templo e os pergaminhos começam a brilhar com uma luz intensa e roxa, e com pura magia eles saem da mochila e voam até as fechaduras da porta colossal do Templo e, assim, as portas se abrem para Mióri, que, de forma entusiasmada e corajosa entra no Templo. Assim que ele entra completamente, as portas se fecham atrás e tochas se acendem sozinhas iluminando todo o lugar.</p>
+<p>Ao centro do Salão principal surge um ser, que se apresenta como Hider, e diz que ele é o anfitrião do lugar e que irá moderar os desafios.</p>
+<p>Hider, pede a Mióri que o siga-o até a sala mais profunda do Templo, ao chegar Hider diz para Mióri entrar na sala sozinho, e que lá será onde os Desafios serão realizados.</p>
+<p>Dentro da Sala Mióri tem uma sensação esquisita. A sala é construída com paredes feitas com espelho então é possível ver o reflexo de todos os elementos da sala, mas Mióri não conseguia ver o seu próprio reflexo.</p>
+<p>Um tempo depois uma sombra aparece em um dos espelhos na frente de Mióri e começa a tomar forma, que ao fim toma a exata forma de Mióri. A sombra, declara:</p>
+<p>-Eu sou todas as representações do universo, sou todas as coisas que as pessoas proclamam, sou todo sopro de vento desse mundo, eu sou você.</p>
+<p>Mióri fica espantado com tal declaração, mas a sombra continua a dizer.</p>
+<p>-Sei de onde você vem, e se quiser voltar para o seu lar terá que me derrotar no conhecimento arcanos desse mundo. Prepare-se, e responda as minhas perguntas.</p>
+<p>&quot;Perguntas sobre Acessibilidade_&quot;.</p>
+<p><strong>Conclusão 1 – Final que o Mióri acerta a maioria das questões</strong></p>
+<p>Saindo da sala do conhecimento, Hider encontra com Mióri, parabeniza-o por ter o maior conhecimento daquele mundo, e com isso, lhe entrega a última peça para que Mióri possa voltar ao seu mundo.</p>
+<p><strong>Conclusão 2 – Final que o Mióri erra a maioria das questões</strong></p>
+<p>Saindo da sala do conhecimento, Hider encontra com Mióri, e lhe dá a triste notícia em que Mióri terá que aprender a viver naquele mundo, não podendo de forma algum voltar para casa.</p>
+<h1 id="fluxo"><strong>Fluxo</strong></h1>
+<p>O usuário será arrastado para o mundo de fantasia do d32. -\&gt; Assim, que ele chegar terá o encontro com o velho mestre mago. -\&gt; O mestre diz o objetivo do usuário dentro daquele mundo, para que ele consiga voltar para casa. -\&gt; O usuário deve encontrar os 4 pergaminhos perdidos naquele mundo, para ter acesso ao templo de espaço e tempo. -\&gt; Dentro do templo de espaço e tempo o usuário será submetido a uma série de desafios, onde esses será o quiz. -\&gt; passando do Desafio submetido pelo Templo o usuário poderá voltar para o seu mundo novamente. -\&gt; <em>Caso, não consiga passar pelo desafio ficará preso no mundo de fantasia para sempre.</em></p>
+<h1 id="personagens"><strong>Personagens</strong></h1>
+<p>Mióri, o sonhador; Half, o Velho Mestre Mago e Hider, o anfitrião.</p>
+<h1 id="gameplay"><strong>Gameplay</strong></h1>
+<p>Jogo voltado a quiz, em que o jogador precisará responder corretamente as questões a fim de passar para a próxima fase.</p>
+<h1 id="experiencia"><strong>Experiencia</strong></h1>
+<p>O jogador estará em um universo imersivo de fantasia, deixando o conhecimento adquirido sobre acessibilidade mais divertido.</p>
+<h1 id="plataforma"><strong>Plataforma</strong></h1>
+<p>Navegador em desktop</p>
+<h1 id="versionamento"><strong>Versionamento</strong></h1>
+<table>
+<thead>
+<tr>
+<th align="center">Versão</th>
+<th align="center">Data</th>
+<th align="center">Modificação</th>
+<th align="center">Autor</th>
+<th align="center">Revisor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1.0</td>
+<td align="center">14/09</td>
+<td align="center">Criação do Documento de Design do Jogo</td>
+<td align="center"><a href="https://github.com/flyerjohn">João Gabriel Antunes</a><br><a href="https://github.com/BrunoOliveiraDantas">Bruno Oliveira Dantas</a></td>
+<td align="center"><a href="https://github.com/IanPSRocha">Ian Rocha</a><br> <a href="https://github.com/thallysbraz">Thallys Braz</a><br> <a href="https://github.com/markinlimac">Marco Lima</a></td>
+</tr>
+</tbody>
+</table>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+        
+          <a href="../planejamento/" title="Planejamento" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+            </div>
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Anterior
+                </span>
+                Planejamento
+              </div>
+            </div>
+          </a>
+        
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../assets/javascripts/vendor.3636a4ec.min.js"></script>
+      <script src="../assets/javascripts/bundle.e9fe3281.min.js"></script><script id="__lang" type="application/json">{"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados"}</script>
+      
+      <script>
+        app = initialize({
+          base: "..",
+          features: [],
+          search: Object.assign({
+            worker: "../assets/javascripts/worker/search.5eca75d3.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      
+    
+  </body>
+</html>
