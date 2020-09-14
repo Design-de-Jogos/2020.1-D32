@@ -5,3 +5,7 @@ nav:
 
 theme: 
   name: material
+  language: "pt"
+  pallete:
+    primary: "deep purple"
+    secondary: "indigo"
