@@ -7,7 +7,7 @@
 ### Telegram
 
 # **Projeto**
-### O projeto 32b, a priori, tem como objetivo traçar todo o desenvolvimento inicial de um jogo sério educacional. O 32b será um projeto realizado para a disciplina de Seminários de Engenharia de Software, do campus UnB-FGA, no primeiro semestre de 2020.
+### O projeto D32, a priori, tem como objetivo traçar todo o desenvolvimento inicial de um jogo sério educacional. O 32b será um projeto realizado para a disciplina de Seminários de Engenharia de Software, do campus UnB-FGA, no primeiro semestre de 2020.
 ### O jogo desenvolvido terá como tema Acessibilidade em Interfaces Móveis, e a principal meta é instruir os seus jogadores sobre o desenvolvimento adequado de Interfaces Móveis acessíveis, para assim manter os padrões de qualidade de software descritos pelo MCCALL’S.
 
 # Cronograma

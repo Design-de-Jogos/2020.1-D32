@@ -1,5 +1,5 @@
 # Início
-Este canal foi criado para manter toda a documentação do projeto 42b, que está sendo feito pelo grupo 2 da matéria Seminários de Engenharia de Software.
+Este canal foi criado para manter toda a documentação do projeto D32, que está sendo feito pelo grupo 2 da matéria Seminários de Engenharia de Software.
 
 ## Visão Geral
 A ideia principal é confeccionar toda a documentação de um jogo sério para ensino de métricas de acessibilidade em interfaces móveis para desenvolvedores e aspirantes a areas relacionadas.
