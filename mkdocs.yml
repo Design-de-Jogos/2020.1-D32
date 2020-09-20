@@ -3,6 +3,7 @@ nav:
   - Home: index.md
   - Planejamento: planejamento.md
   - Design do Jogo: designjogo.md
+  - Introspecção: instrospeccao.md
 
 theme: 
   name: material
@@ -11,5 +12,5 @@ theme:
     primary: "deep purple"
     secondary: "indigo"
 
-repo_name: "32b Documents"
+repo_name: "D32 Documents"
 repo_url: "https://github.com/Design-de-Jogos/2020.1-MobileAccessibility"
