@@ -1,4 +1,4 @@
-site_name: Projeto 32b
+site_name: Projeto D32
 nav: 
   - Home: index.md
   - Planejamento: planejamento.md
@@ -13,5 +13,5 @@ theme:
     primary: "deep purple"
     secondary: "indigo"
 
-repo_name: "32b Documents"
+repo_name: "D32 Documents"
 repo_url: "https://github.com/Design-de-Jogos/2020.1-MobileAccessibility"
