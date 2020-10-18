@@ -7,7 +7,7 @@ A ideia principal é confeccionar toda a documentação de um jogo sério para e
 ## Equipe
  Foto | Nome | Email | GitHub |
  ---- | ---- | ----- | ------ |
-![]() | Bruno Oliveira | - | [@BrunoOliveiraDantas](https://github.com/BrunoOliveiraDantas) |
+![]() | Bruno Oliveira | oliveiradantas96@gmail.com | [@BrunoOliveiraDantas](https://github.com/BrunoOliveiraDantas) |
 ![]() | Ian Pereira Rocha | - | [@IanPSRocha](https://github.com/IanPSRocha) |
 ![]() | João Gabriel Antunes | jg.antunes.medeiros@gmail.com | [@flyerjohn](https://github.com/flyerjohn) |
 ![]() | Marco Antônio Costa | markinlimac@gmail.com | [@markinlimac](https://github.com/markinlimac) |
