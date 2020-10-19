@@ -5,6 +5,11 @@ nav:
   - Design do Jogo: designjogo.md
   - Introspecção: introspeccao.md
   - Metas de Usabilidade: metasusabilidade.md
+  - Questionário: questionario.md
+  - Apresentações:
+    - Ap1: "https://github.com/Design-de-Jogos/2020.1-MobileAccessibility"
+    - Ap2: "https://github.com/Design-de-Jogos/2020.1-MobileAccessibility"
+    - Ap3: "https://github.com/Design-de-Jogos/2020.1-MobileAccessibility"
 
 theme: 
   name: material
