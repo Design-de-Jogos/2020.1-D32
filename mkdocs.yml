@@ -2,10 +2,13 @@ site_name: Projeto D32
 nav: 
   - Home: index.md
   - Planejamento: planejamento.md
-  - Design do Jogo: designjogo.md
-  - Introspecção: introspeccao.md
-  - Metas de Usabilidade: metasusabilidade.md
-  - Questionário: questionario.md
+  - Design: 
+    - Design do Jogo: designjogo.md
+    - Introspecção: introspeccao.md
+    - Metas de Usabilidade: metasusabilidade.md
+    - Questionário: questionario.md
+    - Avaliações:
+        - Planejamento de Avaliações: planejamento-avaliacao.md
   - Apresentações:
     - Ap1: "https://youtu.be/VJKBLy3pV18"
     - Ap2: "https://youtu.be/cZw_swA9SoE"
