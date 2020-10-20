@@ -30,4 +30,4 @@ A entrevista a ser guiada, foi pensada pelo time para ser semi-estruturada, ou s
 ## Versionamento
 | Versão | Data | Modificação | Autor | Revisor |
 | :---: | :---: | :---: | :---: | :---: |
-| 1.0 | 17/10 | Criação do artefato  | [João Gabriel Antunes](https://github.com/flyerjohn) | [Marco Lima](https://github.com/markinlimac)
+| 1.0 | 17/10 | Criação do artefato  | [João Gabriel Antunes](https://github.com/flyerjohn) | [Marco Lima](https://github.com/markinlimac) <br> [Thallys Braz](https://github.com/thallysbraz)|
