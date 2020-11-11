@@ -12,7 +12,7 @@ Como o protótipo de papel é um estágio quase que embrionário de desenvolvime
 
 A entrevista a ser guiada, foi pensada pelo time para ser semi-estruturada, ou seja, o aplicador deverá seguir um roteiro de perguntas, mas pode realizá-la em suas palavras, e se necessário, falar e explicar algo que não esteja roterizado.
 
-#### **Roteiro**
+#### 3.1.1 **Roteiro**
 - Inicie a conversa contando um pouco da história do jogo.
 - Após a história, explique, em poucas palavras, o que é um protótipo de papel.
 - Apresente o protótipo, e dê um tempo para o participante analisá-lo.
@@ -27,7 +27,31 @@ A entrevista a ser guiada, foi pensada pelo time para ser semi-estruturada, ou s
 - Após finalizar e anotar todas as respostas para as perguntas, finalize a entrevista com algumas considerações finais que achar importante.
 <br>
 
+### 3.2 Storyboard
+O Storyboard é um artefato que surgiu no mundo do entretenimento, era um documento que rascunhava e organizava elementos gráficos, como por exemplo, uma série de ilustrações ou imagens, com o objetivo de pré-visualizar um filme, uma animação, ou partes selecionadas desses filmes/animações.<br>
+
+Esse artefato se provou muito útil para os engenheiros de software e/ou desenvolvedores, para que a ideia de um projeto de software saia do papel e se torne real. Para o desenvolvimento de sistemas, o Storyboard é interessante para contextualizar os *stakeholders* sobre o projeto.<br>
+
+Uma vez confeccionados, é preciso avaliar a qualidade deste conjunto de artefatos, e o time de desenvolvimento decidiu por realizar esta medição por meio de uma entrevista.
+Essa entrevista a ser guiada, foi pensada pelo time para ser semi-estruturada, ou seja, o aplicador deverá seguir um roteiro de perguntas, mas pode realizá-la em suas palavras, e se necessário, falar e explicar algo que não esteja roterizado.
+
+#### 3.2.1 **Roteiro**
+- Inicie a conversa contando um pouco da história do jogo.
+- Após a história, explique, em poucas palavras, o que é um Storyboard.
+- Apresente os artefatos, um de cada vez, e dê um tempo para o participante analisá-los.
+    * Primeira pergunta: A idéia do contexto do jogo educativo está clara?
+    * Segunda pergunta: Os fins desse jogo estão claros?
+    * Terceira pergunta: Você achou relevante o uso deste artefato para esclarecer as duas primeiras perguntas?
+    * Quarta pergunta: A história do jogo é cativante?
+    * Quinta pergunta: O personagem principal, Mióri, transmite que sentimento para você?
+    * Sexta pergunta: O personagem coadjuvante, o Velho Mestre Mago, transmite que sentimento para você?
+    * Sétima pergunta: O personagem Hider transmite que sentimento para você?
+    * Última pergunta: A jornada do herói do jogo transmite que sentimento para você?
+- Após finalizar e anotar todas as respostas para as perguntas, finalize a entrevista com algumas considerações finais que achar importante.
+<br>
+
 ## Versionamento
 | Versão | Data | Modificação | Autor | Revisor |
 | :---: | :---: | :---: | :---: | :---: |
 | 1.0 | 17/10 | Criação do artefato  | [João Gabriel Antunes](https://github.com/flyerjohn) | [Marco Lima](https://github.com/markinlimac) <br> [Thallys Braz](https://github.com/thallysbraz)|
+| 1.1 | 10/11 | Adição do planejamento para a avaliação dos storyboards  | [João Gabriel Antunes](https://github.com/flyerjohn) | [Marco Lima](https://github.com/markinlimac) |
