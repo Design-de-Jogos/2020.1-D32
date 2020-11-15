@@ -32,8 +32,8 @@ O Storyboard é um artefato que surgiu no mundo do entretenimento, era um docume
 
 Esse artefato se provou muito útil para os engenheiros de software e/ou desenvolvedores, para que a ideia de um projeto de software saia do papel e se torne real. Para o desenvolvimento de sistemas, o Storyboard é interessante para contextualizar os *stakeholders* sobre o projeto.<br>
 
-Uma vez confeccionados, é preciso avaliar a qualidade deste conjunto de artefatos, e o time de desenvolvimento decidiu por realizar esta medição por meio de uma entrevista.
-Essa entrevista a ser guiada, foi pensada pelo time para ser semi-estruturada, ou seja, o aplicador deverá seguir um roteiro de perguntas, mas pode realizá-la em suas palavras, e se necessário, falar e explicar algo que não esteja roterizado.
+Uma vez confeccionados, é preciso avaliar a qualidade e viabilidade deste conjunto de artefatos, e o time de desenvolvimento decidiu por realizar esta medição por meio de uma entrevista.
+Essa entrevista a ser guiada, foi pensada para ser semi-estruturada, ou seja, o aplicador deverá seguir um roteiro de perguntas, mas pode realizá-la em suas palavras, e se necessário, falar e explicar algo que não esteja roterizado.
 
 #### 3.2.1 **Roteiro**
 - Inicie a conversa contando um pouco da história do jogo.
@@ -50,8 +50,30 @@ Essa entrevista a ser guiada, foi pensada pelo time para ser semi-estruturada, o
 - Após finalizar e anotar todas as respostas para as perguntas, finalize a entrevista com algumas considerações finais que achar importante.
 <br>
 
+### 3.3 Protótipo de Alta Fidelidade
+O protótipo de alta fidelidade é uma demonstração interativa do produto de software, tendo como informações oriundas aquelas que são diretamente ligadas e necessárias para a produção do sistema em questão, ou seja, já apresenta maior semelhança com o design final em termos de detalhes e funcionalidade.
+
+Uma vez confeccionado, é preciso avaliar a qualidade e viabilidade deste artefato, e o time de desenvolvimento decidiu por realizar esta medição por meio de uma entrevista.
+Essa entrevista a ser guiada, foi pensada para ser semi-estruturada, ou seja, o aplicador deverá seguir um roteiro de perguntas, mas pode realizá-la em suas palavras, e se necessário, falar e explicar algo que não esteja roterizado.
+
+#### 3.3.1 **Roteiro**
+- Inicie a conversa contando um pouco da história do jogo.
+- Após a história, explique, em poucas palavras, o que é um protótipo de papel.
+- Apresente o protótipo, e dê um tempo para o participante analisá-lo.
+    * Primeira pergunta: A idéia de um jogo educativo está clara?
+    * Segunda pergunta: As atividades a serem realizadas estão claras?
+    * Terceira pergunta: O fluxo do jogo está claro?
+    * Quarta pergunta: A história do jogo é cativante?
+    * Quinta pergunta: O personagem principal, Mióri, transmite que sentimento para você?
+    * Sexta pergunta: O personagem coadjuvante, o Velho Mestre Mago, transmite que sentimento para você?
+    * Sétima pergunta: O personagem Hider transmite que sentimento para você?
+    * Última pergunta: A jornada do herói do jogo transmite que sentimento para você?
+- Após finalizar e anotar todas as respostas para as perguntas, finalize a entrevista com algumas considerações finais que achar importante.
+<br>
+
 ## Versionamento
 | Versão | Data | Modificação | Autor | Revisor |
 | :---: | :---: | :---: | :---: | :---: |
 | 1.0 | 17/10 | Criação do artefato  | [João Gabriel Antunes](https://github.com/flyerjohn) | [Marco Lima](https://github.com/markinlimac) <br> [Thallys Braz](https://github.com/thallysbraz)|
 | 1.1 | 10/11 | Adição do planejamento para a avaliação dos storyboards  | [João Gabriel Antunes](https://github.com/flyerjohn) | [Marco Lima](https://github.com/markinlimac) |
+| 1.1 | 11/11 | Adição do planejamento para a avaliação do protótipo de alta fidelidade  | [João Gabriel Antunes](https://github.com/flyerjohn) | [Marco Lima](https://github.com/markinlimac) |
