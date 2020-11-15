@@ -10,11 +10,13 @@ nav:
     - Avaliações:
         - Planejamento de Avaliações: planejamento-avaliacao.md
     - Storyboards: storyboards.md
-  - Apresentações:
+    - Protótipo de Alta Fidelidade: protalta.md
+  - Apresentações e Extra:
     - Apresentação 1: "https://youtu.be/VJKBLy3pV18"
     - Apresentação 2: "https://youtu.be/cZw_swA9SoE"
     - Apresentação 3: "https://youtu.be/YQc2XZZL1PQ"
     - Apresentação 4: "https://youtu.be/p87Ak-Exb6Y"
+    - Protótipo Interativo: "https://www.figma.com/proto/7jHkaW8AplksTso9M2fXff/Prot%C3%B3tipo-D32?node-id=4%3A71&scaling=min-zoom"
 
 theme: 
   name: material
