@@ -12,6 +12,7 @@ Neste documento, serão expostos os dados coletados através das entrevistas con
 Como descrito no planejamento, a entrevista guiada foi semi-estruturada, ou seja, o condutor da entrevista possuia um roteiro em mãos, mas tinha liberdade de perguntar algo a mais ou a menos, conforme o percurso da tarefa.
 
 **Resultados**
+
 Após o condutor explicar, de uma maneira sucinta, a história e objetivos do jogo, e do artefato a ser analisado, esse iniciou as perguntas.
 
 João Gabriel: "A idéia do contexto do jogo educativo está clara?"<br>
@@ -38,6 +39,7 @@ Após a última pergunta, o entrevistador finaliza conversando de maneira inform
 Como descrito no planejamento, a entrevista guiada foi semi-estruturada, ou seja, o condutor da entrevista possuia um roteiro em mãos, mas tinha liberdade de perguntar algo a mais ou a menos, conforme o percurso da tarefa.
 
 **Resultados**
+
 Após o condutor explicar, de uma maneira sucinta, a história e objetivos do jogo, e do artefato a ser analisado, esse iniciou as perguntas.
 
 João Gabriel: "A idéia do contexto do jogo educativo está clara?"<br>
@@ -64,6 +66,7 @@ Após a última pergunta, o entrevistador finaliza conversando de maneira inform
 Como descrito no planejamento, a entrevista guiada foi semi-estruturada, ou seja, o condutor da entrevista possuia um roteiro em mãos, mas tinha liberdade de perguntar algo a mais ou a menos, conforme o percurso da tarefa.
 
 **Resultados**
+
 Como o condutor já tinha explicado a história e já tinha feito algumas perguntas para a Pessoa 1, essas repitidas não foram feitas nessa nova entrevista.
 Logo depois de a pessoa analisar o artefato, o entrevistador continua.
 João Gabriel: "Ok, depois de observar e interagir com o protótipo de alta, você achou relevante o uso deste artefato para esclarecer melhor as duas primeiras perguntas?"<br>
