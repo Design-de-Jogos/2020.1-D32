@@ -76,4 +76,4 @@ Essa entrevista a ser guiada, foi pensada para ser semi-estruturada, ou seja, o 
 | :---: | :---: | :---: | :---: | :---: |
 | 1.0 | 17/10 | Criação do artefato  | [João Gabriel Antunes](https://github.com/flyerjohn) | [Marco Lima](https://github.com/markinlimac) <br> [Thallys Braz](https://github.com/thallysbraz)|
 | 1.1 | 10/11 | Adição do planejamento para a avaliação dos storyboards  | [João Gabriel Antunes](https://github.com/flyerjohn) | [Marco Lima](https://github.com/markinlimac) |
-| 1.1 | 11/11 | Adição do planejamento para a avaliação do protótipo de alta fidelidade  | [João Gabriel Antunes](https://github.com/flyerjohn) | [Marco Lima](https://github.com/markinlimac) |
+| 1.2 | 11/11 | Adição do planejamento para a avaliação do protótipo de alta fidelidade  | [João Gabriel Antunes](https://github.com/flyerjohn) | [Marco Lima](https://github.com/markinlimac) |

@@ -38,4 +38,4 @@ Prototipagem de papel é uma técnica que permite criar e testar interfaces de u
 | Versão | Data | Modificação | Autor | Revisor |
 | :---: | :---: | :---: | :---: | :---:|
 | 1.0 | 14/11 | Criação do documento e adição do protótipo de baixa fidelidade  | [João Gabriel Antunes](https://github.com/flyerjohn) | [Marco Lima](https://github.com/markinlimac)<br>  [Bruno Oliveira Dantas](https://github.com/BrunoOliveiraDantas) |
-| 1.0 | 16/11 | Acréscimo das telas do Protótipo e da descrição de cada tela.  | [Bruno Oliveira Dantas](https://github.com/BrunoOliveiraDantas) | [João Gabriel Antunes](https://github.com/flyerjohn)  |
+| 1.1 | 16/11 | Acréscimo das telas do Protótipo e da descrição de cada tela.  | [Bruno Oliveira Dantas](https://github.com/BrunoOliveiraDantas) | [João Gabriel Antunes](https://github.com/flyerjohn)  |
