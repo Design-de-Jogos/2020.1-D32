@@ -88,10 +88,33 @@ O jogador estará em um universo imersivo de fantasia, deixando o conhecimento a
 
 Navegador em desktop
 
-## Link para o _briefing_ do documento
-https://youtu.be/YQc2XZZL1PQ
+# Storyboards
+## Storyboard 1
+![storyboard1](./img/storyboards/storyboard1.png)
+
+## Storyboard 2
+![storyboard2](./img/storyboards/storyboard2.jpg)
+
+## Storyboard 3
+![storyboard3](./img/storyboards/storyboard3.jpg)
+
+# Protótipo de Baixa Fidelidade
+## Protótipos
+
+![Parte1 <width="200">](img/prototipobaixa/parte1.jpg)
+
+**Imagem 1 - Telas do prótotipo de papel.**
+
+
+![Parte2](img/prototipobaixa/parte2.jpg)
+
+**Imagem 2 - Telas do prótotipo de papel.**
+# Referências
+> BARBOSA, S. D. J.; SILVA, B. S. DA. Interação Humano-Computador, 2010.
+
 
 # **Versionamento**
 | Versão | Data | Modificação | Autor | Revisor |
 | :---: | :---: | :---: | :---: | :---: |
-| 1.0 | 14/09 | Criação do Documento de Design do Jogo | [João Gabriel Antunes](https://github.com/flyerjohn)<br>[Bruno Oliveira Dantas](https://github.com/BrunoOliveiraDantas) | [Ian Rocha](https://github.com/IanPSRocha)<br> [Thallys Braz](https://github.com/thallysbraz)<br> [Marco Lima](https://github.com/markinlimac) 
+| 1.0 | 14/09 | Criação do Documento de Design do Jogo | [João Gabriel Antunes](https://github.com/flyerjohn)<br>[Bruno Oliveira Dantas](https://github.com/BrunoOliveiraDantas) | [Ian Rocha](https://github.com/IanPSRocha)<br> [Thallys Braz](https://github.com/thallysbraz)<br> [Marco Lima](https://github.com/markinlimac) |
+| 1.1 | 29/11 | Atualização do documento com os storyboards e prototipo de papel | [João Gabriel Antunes](https://github.com/flyerjohn)<br>[Bruno Oliveira Dantas](https://github.com/BrunoOliveiraDantas) | [Thallys Braz](https://github.com/thallysbraz)<br> [Marco Lima](https://github.com/markinlimac) 
