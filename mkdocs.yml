@@ -3,6 +3,7 @@ nav:
   - Home: index.md
   - Planejamento: planejamento.md
   - GDD: designjogo.md
+  - TDD: tdd.md
   - Desenvolvimento: 
     - Introspecção: introspeccao.md
     - Metas de Usabilidade: metasusabilidade.md
