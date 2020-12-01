@@ -2,8 +2,8 @@ site_name: Projeto D32
 nav: 
   - Home: index.md
   - Planejamento: planejamento.md
-  - Design: 
-    - Design do Jogo: designjogo.md
+  - GDD: designjogo.md
+  - Desenvolvimento: 
     - Introspecção: introspeccao.md
     - Metas de Usabilidade: metasusabilidade.md
     - Questionário: questionario.md
