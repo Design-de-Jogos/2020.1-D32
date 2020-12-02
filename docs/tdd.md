@@ -2,6 +2,7 @@
 
 ## Personas
 ![Rafael](./img/Rafael.webp)
+<br>
 | Persona | Rafael |
 | -- | -- |
 | Nome: | Rafael Garcia |
@@ -14,6 +15,7 @@
 
 ### Persona 2
 ![Clara](./img/Clara.jpg)
+<br>
 | Persona | Clara |
 | -- | -- |
 | Nome: | Clara Almeida |
@@ -26,6 +28,7 @@
 
 ### Persona 3
 ![Clara](./img/Pedro.jpg)
+<br>
 | Persona | Pedro |
 | -- | -- |
 | Nome: | Pedro Guimarães |
