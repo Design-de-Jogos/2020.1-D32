@@ -3,41 +3,41 @@
 ## Personas
 ![Rafael](./img/Rafael.webp)
 <br>
-| Persona | Rafael |
-| -- | -- |
-| Nome: | Rafael Garcia |
-| Idade: | 27 |
-| Profissão: | Desenvolvedor Mobile |
-| Escolaridade: | Ensino Médio |
-| Nível de conhecimento de IHC: | Nunca estudou sobre, porém conhece os conceitos gerais. |
-| História e contexto: | Rafael, como um desenvolvedor mobile,<br> está em contato direto com os princípios de criação<br> e manutenção de aplicações móveis,<br> porém sempre teve dificuldades para aprender<br> mais afundo sobre como deixar suas aplicações<br> acessíveis para todos o possíveis usuários. |
-| O que ele deseja: | Rafael deseja muito aprender de forma prática e lúdica<br> como, por exemplo, por meio de um jogo sério ou atividades<br> práticas, já que possui um certo nível de conforto no<br> contexto de desenvolvimento. |
+ Persona | Rafael |
+ -- | -- |
+ Nome: | Rafael Garcia |
+ Idade: | 27 |
+ Profissão: | Desenvolvedor Mobile |
+ Escolaridade: | Ensino Médio |
+ Nível de conhecimento de IHC: | Nunca estudou sobre, porém conhece os conceitos gerais. |
+ História e contexto: | Rafael, como um desenvolvedor mobile,<br> está em contato direto com os princípios de criação<br> e manutenção de aplicações móveis,<br> porém sempre teve dificuldades para aprender<br> mais afundo sobre como deixar suas aplicações<br> acessíveis para todos o possíveis usuários. |
+ O que ele deseja: | Rafael deseja muito aprender de forma prática e lúdica<br> como, por exemplo, por meio de um jogo sério ou atividades<br> práticas, já que possui um certo nível de conforto no<br> contexto de desenvolvimento. |
 
 ### Persona 2
 ![Clara](./img/Clara.jpg)
 <br>
-| Persona | Clara |
-| -- | -- |
-| Nome: | Clara Almeida |
-| Idade: | 20 |
-| Profissão: | Estudante |
-| Escolaridade: | Ensino Superior em curso |
-| Nível de conhecimento de IHC: | Está atualmente aprendendo na disciplina correspondente<br> em sua universidade. |
-| História e contexto: | Clara, como uma estudante de engenharia de software,<br> conhece os conceitos de qualidade de software e testes,<br> porém começou a estudar sobre Interação Humano<br> Computador no semestre atual,e ela acredita que não<br> possui materiais suficientes para aprender tudo sobre<br> os conceitos principais da matéria, acessibilidade sendo<br> o mais atrativo, em sua opinião. |
-| O que ela deseja: | Clara deseja muito aprender sobre acessibilidade,<br>  principalmente em interfaces móveis, por isso ela<br> deseja ter materiais auxiliares para ajudarem na<br> fixação do conteúdo visto em aula sobre esse<br> assunto em específico. |
+ Persona | Clara |
+ -- | -- |
+ Nome: | Clara Almeida |
+ Idade: | 20 |
+ Profissão: | Estudante |
+ Escolaridade: | Ensino Superior em curso |
+ Nível de conhecimento de IHC: | Está atualmente aprendendo na disciplina correspondente<br> em sua universidade. |
+ História e contexto: | Clara, como uma estudante de engenharia de software,<br> conhece os conceitos de qualidade de software e testes,<br> porém começou a estudar sobre Interação Humano<br> Computador no semestre atual,e ela acredita que não<br> possui materiais suficientes para aprender tudo sobre<br> os conceitos principais da matéria, acessibilidade sendo<br> o mais atrativo, em sua opinião. |
+ O que ela deseja: | Clara deseja muito aprender sobre acessibilidade,<br>  principalmente em interfaces móveis, por isso ela<br> deseja ter materiais auxiliares para ajudarem na<br> fixação do conteúdo visto em aula sobre esse<br> assunto em específico. |
 
 ### Persona 3
 ![Clara](./img/Pedro.jpg)
 <br>
-| Persona | Pedro |
-| -- | -- |
-| Nome: | Pedro Guimarães |
-| Idade: | 16 |
-| Profissão: | Estudante |
-| Escolaridade: | Ensino Médio em curso |
-| Nível de conhecimento de IHC: | Nunca ouviu falar de IHC. |
-| História e contexto: | Pedro, como um estudante do ensino médio,<br> nunca teve um contato com os conceitos mais<br> aprofundados sobre qualidade de software, Interação<br> Humano Computador ou usabilidade, porém ele é um<br> adolescente muito entusiasmado sobre a programação<br> e, principalmente, desenvolvimento de aplicativos. |
-| O que ele deseja: | Pedro deseja muito aprender sobre desenvolvimento<br> mobile, para que ele consiga fazer um app que ajuda<br> a irmã mais nova, com uma deficiência visual, a<br> sentir as mesmas sensações que ele ao enxergar<br> as cores. Para isso, precisa aprender também os<br> princípios e métricas de acessibilidade, e nada melhor que um<br> jogo em que se divirta enquanto aprende. |
+ Persona | Pedro |
+ -- | -- |
+ Nome: | Pedro Guimarães |
+ Idade: | 16 |
+ Profissão: | Estudante |
+ Escolaridade: | Ensino Médio em curso |
+ Nível de conhecimento de IHC: | Nunca ouviu falar de IHC. |
+ História e contexto: | Pedro, como um estudante do ensino médio,<br> nunca teve um contato com os conceitos mais<br> aprofundados sobre qualidade de software, Interação<br> Humano Computador ou usabilidade, porém ele é um<br> adolescente muito entusiasmado sobre a programação<br> e, principalmente, desenvolvimento de aplicativos. |
+ O que ele deseja: | Pedro deseja muito aprender sobre desenvolvimento<br> mobile, para que ele consiga fazer um app que ajuda<br> a irmã mais nova, com uma deficiência visual, a<br> sentir as mesmas sensações que ele ao enxergar<br> as cores. Para isso, precisa aprender também os<br> princípios e métricas de acessibilidade, e nada melhor que um<br> jogo em que se divirta enquanto aprende. |
 
 ## Metas de Usabilidade 
 
